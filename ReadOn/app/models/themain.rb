@@ -1,0 +1,2 @@
+class Themain < ApplicationRecord
+end
